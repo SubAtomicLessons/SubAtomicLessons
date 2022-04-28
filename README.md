@@ -1,4 +1,4 @@
-Now that's a big door.
+Now, that's a big door.
 
 <!---
 SubAtomicLessons/SubAtomicLessons is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
